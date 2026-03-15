@@ -1,0 +1,22 @@
+body{
+font-family: Arial;
+text-align:center;
+margin-top:100px;
+}
+
+.calculator{
+display:inline-block;
+}
+
+button{
+padding:15px;
+margin:5px;
+font-size:18px;
+}
+
+input{
+padding:10px;
+font-size:18px;
+width:200px;
+margin-bottom:10px;
+}
